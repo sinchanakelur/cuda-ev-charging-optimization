@@ -227,9 +227,3 @@ Temporal demand modeling reduces mean fitness by 51% relative to density-based d
 ## Acknowledgments
 
 Developed as part of academic work in the Department of Artificial Intelligence and Machine Learning. GPU experiments were run on Google Colab with NVIDIA GPU acceleration.
-
----
-
-## License
-
-Add your preferred license (e.g., MIT) here.
